@@ -1,5 +1,8 @@
 # Celo Geo-Fenced Donation Pool
 
+![1000103737](https://github.com/user-attachments/assets/e296108b-8b81-4123-9a6f-b836d5022651)
+
+
 This project implements a decentralized application (dApp) on the **Celo blockchain** that facilitates location-triggered (geo-fenced) micro-donations to registered charities using **cUSD** (Celo Dollar). The application is designed to be mobile-first and utilizes the Celo network's low transaction costs.
 
 ## 🚀 Getting Started
